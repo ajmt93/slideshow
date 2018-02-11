@@ -1,0 +1,7 @@
+#banner{ position:relative; width:250px; height:30px;}
+
+#slideshow { position:relative; width:250px; height:250px; }
+
+#slideshow > img { position:absolute; left:0; top:0; }
+
+img {display: none;}
