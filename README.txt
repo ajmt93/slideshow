@@ -1,4 +1,4 @@
-Hey there! Thanks for checking this out.
+A project requested by a friend to have an image appear during twitch streams to highlight previous work.
 
 You'll need to make a few changes to get this working on your server.
 1)
